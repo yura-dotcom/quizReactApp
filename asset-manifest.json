@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//yura-dotcom.github.io/quizReactApp/static/css/main.3459ba5c.chunk.css",
+    "main.js": "//yura-dotcom.github.io/quizReactApp/static/js/main.74ac44de.chunk.js",
+    "main.js.map": "//yura-dotcom.github.io/quizReactApp/static/js/main.74ac44de.chunk.js.map",
+    "runtime-main.js": "//yura-dotcom.github.io/quizReactApp/static/js/runtime-main.9dbd3551.js",
+    "runtime-main.js.map": "//yura-dotcom.github.io/quizReactApp/static/js/runtime-main.9dbd3551.js.map",
+    "static/js/2.a3c9b923.chunk.js": "//yura-dotcom.github.io/quizReactApp/static/js/2.a3c9b923.chunk.js",
+    "static/js/2.a3c9b923.chunk.js.map": "//yura-dotcom.github.io/quizReactApp/static/js/2.a3c9b923.chunk.js.map",
+    "index.html": "//yura-dotcom.github.io/quizReactApp/index.html",
+    "precache-manifest.69341605b32c4e528d07317cde85c304.js": "//yura-dotcom.github.io/quizReactApp/precache-manifest.69341605b32c4e528d07317cde85c304.js",
+    "service-worker.js": "//yura-dotcom.github.io/quizReactApp/service-worker.js",
+    "static/css/main.3459ba5c.chunk.css.map": "//yura-dotcom.github.io/quizReactApp/static/css/main.3459ba5c.chunk.css.map",
+    "static/js/2.a3c9b923.chunk.js.LICENSE.txt": "//yura-dotcom.github.io/quizReactApp/static/js/2.a3c9b923.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9dbd3551.js",
+    "static/js/2.a3c9b923.chunk.js",
+    "static/css/main.3459ba5c.chunk.css",
+    "static/js/main.74ac44de.chunk.js"
+  ]
+}
